@@ -343,7 +343,7 @@ textarea {
 }
 
 #footer {
-    background: #F4E3E7;
+    background: #CFCAD7;
     padding: 50px 0;
     color: black;
     text-align: center;
@@ -476,7 +476,7 @@ textarea {
 }
 
 .sobre-block {
-    background: #F4E3E7;
+    background: #CFCAD7;
 }
 
 .sobre-block .progress-block h4 {
@@ -547,7 +547,7 @@ textarea {
 }
 
 .objetivos-block .holder:hover .icon {
-    box-shadow: inset 0 0 0 30px #F4E3E7;
+    box-shadow: inset 0 0 0 30px #CFCAD7;
     color: black;
     font-size: 18px;
 }
@@ -579,7 +579,7 @@ textarea {
 }
 
 .eventos-block {
-    background-color: #F4E3E7;
+    background-color: #CFCAD7;
 }
 
 .eventos-block [class*="col-"]:hover .overlay {
@@ -718,7 +718,7 @@ textarea {
 }
 
 .ajudar {
-    background-color: #F4E3E7;
+    background-color: #CFCAD7;
     width: 100%;
     height: 660px;
     display: flex;
@@ -727,7 +727,7 @@ textarea {
 .contato {
     height: 275px;
     border-radius: 20px;
-    background-color: #F4E3E7;
+    background-color: #CFCAD7;
     white-space: nowrap;
 }
 
@@ -767,7 +767,7 @@ textarea {
 .siga {
     height: 275px;
     border-radius: 20px;
-    background-color: #F4E3E7;
+    background-color: #CFCAD7;
     white-space: nowrap;
 }
 
@@ -805,7 +805,7 @@ textarea {
 }
 
 .apoie {
-    background: #F4E3E7;
+    background: #CFCAD7;
     height: 625px;
     border-radius: 20px;
 }
